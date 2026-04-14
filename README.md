@@ -1,6 +1,6 @@
 # argus — Video Intelligence. Real-time video intelligence
 
-Video Intelligence. Real-time video intelligence. argus gives you a focused, inspectable implementation of that idea.
+Video Intelligence. Real-time video intelligence.
 
 ## Why argus
 
