@@ -1,56 +1,28 @@
-# 🔱 Argus — Video Intelligence
+# argus — Video Intelligence. Real-time video intelligence
 
-> **Greek Mythology**: Hundred-Eyed Giant | Real-time video intelligence
+Video Intelligence. Real-time video intelligence. argus gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/argus/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/argus?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/argus?style=flat-square)](https://github.com/MukundaKatta/argus/stargazers)
+## Why argus
 
-## 🚀 Overview
+argus exists to make this workflow practical. Video intelligence. real-time video intelligence. It favours a small, inspectable surface over sprawling configuration.
 
-Real-time video intelligence
+## How It Works
 
-**Tech Stack:** Python, OpenCV
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
-```bash
-git clone https://github.com/MukundaKatta/argus.git
-cd argus
-# Follow setup instructions below
-```
+Clone the repository and inspect the source to see how to run it.
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 argus/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/argus/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#argus** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
